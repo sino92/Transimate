@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
+    This library offers a number of custom extensions to native navigation controller transition.
                    DESC
 
   s.homepage     = "https://github.com/sino92/Transimate"
